@@ -1,6 +1,6 @@
 # 🎬 IMDb Movie Review Sentiment Analysis
 
-I built this project during my Data Science internship at **Nettech India** — it reads a movie review and figures out whether the person liked the movie or not, just by analyzing the text.
+I built this project as a part of my Data Science internship at **Nettech India** — it reads a movie review and figures out whether the person liked the movie or not, just by analyzing the text.
 
 ---
 
